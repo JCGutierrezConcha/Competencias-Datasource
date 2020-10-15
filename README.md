@@ -7,4 +7,4 @@ En la carpeta de cada trabajo se encuentra el Jupyter Notebook con el código de
 
 Actualmente este repositorio contiene ejercicios sobre:
 
-"Predicción de precios de apartamentos en Argentina y Colombia" , en el cual se obtuvo el primer lugar entre 136 data scientist de América Latina.
+"Predicción de precios de apartamentos en Argentina y Colombia" , [[Jupyter Notebook]](https://github.com/JCGutierrezConcha/Competencias-Datasource/blob/main/Precios-Departamentos-Regresion/precios-departamentos-revision-final.ipynb) en el cual se obtuvo el primer lugar entre 136 data scientist de América Latina.
